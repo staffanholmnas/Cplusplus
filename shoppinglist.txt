@@ -1,0 +1,8 @@
+pears	1.23
+pizza	1.95
+sallad	0.80
+soda	1.67
+newspaper	2.00
+meatloaf	3.52
+potatoes	1.52
+milk	0.80

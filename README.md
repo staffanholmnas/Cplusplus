@@ -1,0 +1,1 @@
+Basics in C++. Use the code runner shortcut ctrl + alt + n to run the code in powershell, when a .cpp file is open. Alternatively debug and run with F5.
